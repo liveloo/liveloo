@@ -4,7 +4,7 @@
 
 ## FR <img src="https://img.icons8.com/color/1048/france-circular.png" width="20"/> - Coucou 👋
 
-📱 Je suis un gamin de 15 ans très intéresser par tout ce qui touche au développement WEB et vis au pays de la **Baguette** <img src="https://img.icons8.com/color/1048/france-circular.png" width="15"/>.
+📱 Je suis un gamin de 16 ans très intéresser par tout ce qui touche au développement WEB et vis au pays de la **Baguette** <img src="https://img.icons8.com/color/1048/france-circular.png" width="15"/>.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liveloo&layout=compact&title_color=FFF&text_color=FFF&icon_color=FFF&bg_color=161b22&hide_border=true)
 
