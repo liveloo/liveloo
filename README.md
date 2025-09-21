@@ -24,4 +24,9 @@
 
 💡 J’essaie constamment d’apprendre ~~à construire une maison sur Minecraft~~ de nouveaux langages de programmation mais sans succès à cause de ~~mes longues parties de Minecraft~~ tous mes examens 😅.
 
+
 ⚡ Fun fact : Je déteste l’espagnol mais j’adore l’anglais.
+
+🎵 Ce que j'ecoute :
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ontjrpthfiqnzjpenll3ofnwlu&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ontjrpthfiqnzjpenll3ofnwlu&redirect=true)
